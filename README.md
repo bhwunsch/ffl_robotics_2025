@@ -3,7 +3,7 @@
 
 Mission Status
 | Number | Mission | Status | Teammate | Robot | Code |
-|-----------|-----------|-----------|-----------|-----------|
+|--------|---------|--------|----------|-------|------|
 | 1 | Surface Brushing | Working Solution | ??? | ??? | ??? |
 | 3 | Mineshaft Explorer | Started | ??? | ??? | ??? |
 | 11 | Angler Artifacts | Started | ??? | ??? | ??? |
