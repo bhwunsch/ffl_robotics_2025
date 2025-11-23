@@ -9,6 +9,6 @@ Mission Status
 | 5 | The Forge | Working Solution | Rowan | Tyler | m6_rj_working_01.llsp3
 | 6 | The Table | Started - missions 5 & 6 | Rowan, Stephen | Tyler | Rowan/m6m5_rj_sw_WIP_THE 67 PROGECT.llsp3
 | 7 | Heavy Lift | In progress | Rowan, Stephen | Tyler | 
-| 9 | Scales | Started | Stephen | Tyler | 20251005_scales
-| 11 | Angler Artifacts | Started | ??? | ??? | ??? | Rowan/m7_rrj m7_rj_sw; Stephen/m7_sw
-| 12 | Salvage Operation | Working Solution | Andrew | ??? | ??? |
+| 10 | Scales | Started | Stephen | Tyler | 20251005_scales
+| 11 | Angler Artifacts | Started | Clara | ??? | ??? | Rowan/m7_rrj m7_rj_sw; Stephen/m7_sw
+| 12 | Salvage Operation | Working Solution | Keshar, Andrew | ??? | ??? |
